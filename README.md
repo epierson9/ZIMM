@@ -1,4 +1,4 @@
-Zero-inflated mixture model for single-cell data.
+Zero-inflated mixture model.
 
 Algorithm code is contained in ZIMM.py.
 

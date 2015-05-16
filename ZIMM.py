@@ -15,7 +15,7 @@ Created by Emma Pierson and Christopher Yau.
 Sample usage:
 Z, model_params = fitModel(Y, k)
 
-where Y is the observed zero-inflated data, k is the desired number of clusters, and Z is the low-dimensional projection. 
+where Y is the observed zero-inflated data, k is the desired number of clusters, and Z is the cluster assignments. 
 Throughout, K denotes the number of clusters, N denotes the number of samples, and D the number of dimensions. 
 """
 
